@@ -1,0 +1,5 @@
+python-stevedore source: file-without-copyright-information
+python-stevedore source: no-debian-changes
+python-stevedore source: source-contains-prebuilt-windows-binary
+python-stevedore source: source-is-missing
+python-stevedore source: source-package-encodes-python-version

@@ -1,0 +1,5 @@
+python-stevedore (100:5.6.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/openstack/stevedore/releases/tag/5.6.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 21 Nov 2025 22:23:09 +0800

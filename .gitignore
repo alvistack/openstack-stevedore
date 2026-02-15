@@ -38,3 +38,5 @@ ChangeLog
 RELEASENOTES.rst
 releasenotes/build
 releasenotes/notes/reno.cache
+
+.pybuild/
