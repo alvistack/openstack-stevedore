@@ -1,0 +1,4 @@
+python3-stevedore: copyright-without-copyright-notice
+python3-stevedore: initial-upload-closes-no-bugs
+python3-stevedore: no-manual-page
+python3-stevedore: zero-byte-file-in-doc-directory
