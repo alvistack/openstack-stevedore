@@ -39,6 +39,11 @@ from the plugin. The single driver can be accessed via the
 :attr:`driver` property of the manager, and then its methods can be
 called directly.
 
+Because a :class:`DriverManager` expects a name to identify exactly one
+driver, it will raise an error if more than one entry point in the
+namespace shares the requested name. See :doc:`../conflict_resolution`
+for how to control this behavior.
+
 .. literalinclude:: ../../../../stevedore/example/load_as_driver.py
    :language: python
    :lines: 43-44

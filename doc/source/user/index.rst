@@ -8,6 +8,7 @@
 
    patterns_loading
    patterns_enabling
+   conflict_resolution
    tutorial/index
    sphinxext
    essays/*
